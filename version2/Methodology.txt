@@ -1,0 +1,22 @@
+we used the spotify api to sequentially request all songs in my spotify library.
+rates are limited to 50 songs per request
+the algorithm works like this:
+request_songs(50 songs from index 0)
+request_songs(50 songs from index 51) etc
+then we collect artist information
+then we use the artist information to find related artists 
+then we create a graph using those relations
+
+
+Goals: 
+1. make a pretty graph(has to be colorful)
+2. 
+  a. create a set of statistics which can be calculated for 1 year 
+    i. song count
+    ii. artist count
+    iii. unique languages
+    iv. songs per language
+    v. genres(the gross way)
+    vi. genres(a more interesting way)
+  b. figure out artist frequency
+  c. see if i can make predictions about 2021-2024

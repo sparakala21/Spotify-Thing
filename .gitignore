@@ -1,0 +1,9 @@
+*.json
+*.csv
+*.pdf
+*.png
+*/init.sh
+/results
+/data
+/results
+/scrape
