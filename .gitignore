@@ -2,7 +2,7 @@
 *.csv
 *.pdf
 *.png
-*/init.sh
+init.sh
 /results
 /data
 /results

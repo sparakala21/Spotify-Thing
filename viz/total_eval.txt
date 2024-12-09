@@ -1,0 +1,1056 @@
+
+PREDICTION EVALUATION RESULTS
+==================================================
+
+OVERALL PERFORMANCE:
+Total Recommendations: 340
+Hit Rate: 5.88%
+Discovery Rate: 100.0%
+Total Hits: 20
+New Discoveries: 20
+
+EDM GENRE:
+Hit Rate: 3.45%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Kid Cudi [NEW]
+  Score: 1.91, Future Listens: 3
+- Dimitri Vegas & Like Mike [NEW]
+  Score: 0.95, Future Listens: 1
+- TheFatRat [NEW]
+  Score: 2.43, Future Listens: 1
+- Borgore [NEW]
+  Score: 0.87, Future Listens: 1
+
+FILMI GENRE:
+Hit Rate: 0%
+Discovery Rate: 0%
+
+Successful Recommendations:
+
+HIP-HOP GENRE:
+Hit Rate: 9.66%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Childish Gambino [NEW]
+  Score: 1.22, Future Listens: 11
+- Denzel Curry [NEW]
+  Score: 15.94, Future Listens: 4
+- Kid Cudi [NEW]
+  Score: 16.00, Future Listens: 3
+- Tyler, The Creator [NEW]
+  Score: 1.24, Future Listens: 3
+- JAY-Z [NEW]
+  Score: 5.71, Future Listens: 2
+- Meek Mill [NEW]
+  Score: 6.22, Future Listens: 2
+- J. Cole [NEW]
+  Score: 15.61, Future Listens: 2
+- Ski Mask The Slump God [NEW]
+  Score: 16.71, Future Listens: 2
+- Fetty Wap [NEW]
+  Score: 5.91, Future Listens: 1
+- Juice WRLD [NEW]
+  Score: 6.09, Future Listens: 1
+- Roddy Ricch [NEW]
+  Score: 7.71, Future Listens: 1
+- DaBaby [NEW]
+  Score: 6.77, Future Listens: 1
+- 2 Chainz [NEW]
+  Score: 6.56, Future Listens: 1
+- Chance the Rapper [NEW]
+  Score: 1.43, Future Listens: 1
+- Young Thug [NEW]
+  Score: 16.05, Future Listens: 1
+- ScHoolboy Q [NEW]
+  Score: 16.46, Future Listens: 1
+- Joey Bada$$ [NEW]
+  Score: 16.18, Future Listens: 1
+
+JAZZ GENRE:
+Hit Rate: 0%
+Discovery Rate: 0%
+
+Successful Recommendations:
+
+POP GENRE:
+Hit Rate: 8.33%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Childish Gambino [NEW]
+  Score: 19.76, Future Listens: 11
+- JAY-Z [NEW]
+  Score: 4.82, Future Listens: 2
+- Meek Mill [NEW]
+  Score: 21.44, Future Listens: 2
+- Juice WRLD [NEW]
+  Score: 1.50, Future Listens: 1
+- Roddy Ricch [NEW]
+  Score: 20.36, Future Listens: 1
+- DaBaby [NEW]
+  Score: 20.88, Future Listens: 1
+- 2 Chainz [NEW]
+  Score: 4.69, Future Listens: 1
+- Young Thug [NEW]
+  Score: 19.76, Future Listens: 1
+- Chance the Rapper [NEW]
+  Score: 20.51, Future Listens: 1
+- ScHoolboy Q [NEW]
+  Score: 21.25, Future Listens: 1
+
+PREDICTION EVALUATION RESULTS
+==================================================
+
+OVERALL PERFORMANCE:
+Total Recommendations: 515
+Hit Rate: 10.29%
+Discovery Rate: 100.0%
+Total Hits: 53
+New Discoveries: 53
+
+EDM GENRE:
+Hit Rate: 4.52%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Khalid [NEW]
+  Score: 3.08, Future Listens: 1
+- Rob $tone [NEW]
+  Score: 2.77, Future Listens: 1
+- Oliver Tree [NEW]
+  Score: 2.77, Future Listens: 1
+- benny blanco [NEW]
+  Score: 3.21, Future Listens: 1
+- LMFAO [NEW]
+  Score: 2.02, Future Listens: 1
+- Dr. Dog [NEW]
+  Score: 0.69, Future Listens: 1
+- Jason Derulo [NEW]
+  Score: 1.87, Future Listens: 1
+
+FILMI GENRE:
+Hit Rate: 0%
+Discovery Rate: 0%
+
+Successful Recommendations:
+
+HIP-HOP GENRE:
+Hit Rate: 20.69%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Travis Scott [NEW]
+  Score: 31.84, Future Listens: 6
+- MF DOOM [NEW]
+  Score: 9.02, Future Listens: 5
+- Pop Smoke [NEW]
+  Score: 8.25, Future Listens: 5
+- Aminé [NEW]
+  Score: 8.16, Future Listens: 5
+- Jay Rock [NEW]
+  Score: 9.86, Future Listens: 3
+- YG [NEW]
+  Score: 10.38, Future Listens: 3
+- Mac Miller [NEW]
+  Score: 9.54, Future Listens: 3
+- Lil Wayne [NEW]
+  Score: 9.55, Future Listens: 3
+- The Notorious B.I.G. [NEW]
+  Score: 8.19, Future Listens: 3
+- Vince Staples [NEW]
+  Score: 36.44, Future Listens: 3
+- A$AP Rocky [NEW]
+  Score: 35.44, Future Listens: 2
+- Waka Flocka Flame [NEW]
+  Score: 10.22, Future Listens: 2
+- The Weeknd [NEW]
+  Score: 5.19, Future Listens: 2
+- Brent Faiyaz [NEW]
+  Score: 8.54, Future Listens: 2
+- Sada Baby [NEW]
+  Score: 2.19, Future Listens: 2
+- Future [NEW]
+  Score: 35.85, Future Listens: 1
+- 50 Cent [NEW]
+  Score: 8.29, Future Listens: 1
+- benny blanco [NEW]
+  Score: 5.46, Future Listens: 1
+- T.I. [NEW]
+  Score: 10.45, Future Listens: 1
+- NLE Choppa [NEW]
+  Score: 31.84, Future Listens: 1
+- Jason Derulo [NEW]
+  Score: 2.77, Future Listens: 1
+- Trippie Redd [NEW]
+  Score: 33.69, Future Listens: 1
+- Don Toliver [NEW]
+  Score: 33.08, Future Listens: 1
+- Isaiah Rashad [NEW]
+  Score: 9.02, Future Listens: 1
+- Jack Harlow [NEW]
+  Score: 5.31, Future Listens: 1
+- H.E.R. [NEW]
+  Score: 8.54, Future Listens: 1
+- NAV [NEW]
+  Score: 9.55, Future Listens: 1
+- Summer Walker [NEW]
+  Score: 8.54, Future Listens: 1
+- 2Pac [NEW]
+  Score: 7.62, Future Listens: 1
+- Mike WiLL Made-It [NEW]
+  Score: 9.74, Future Listens: 1
+- Khalid [NEW]
+  Score: 5.30, Future Listens: 1
+- Wale [NEW]
+  Score: 10.18, Future Listens: 1
+- PARTYNEXTDOOR [NEW]
+  Score: 8.25, Future Listens: 1
+- Lil Baby [NEW]
+  Score: 9.20, Future Listens: 1
+- JACKBOYS [NEW]
+  Score: 7.50, Future Listens: 1
+- Only The Family [NEW]
+  Score: 2.25, Future Listens: 1
+
+JAZZ GENRE:
+Hit Rate: 6.25%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Thundercat [NEW]
+  Score: 0.74, Future Listens: 7
+- KC & The Sunshine Band [NEW]
+  Score: 2.97, Future Listens: 1
+- The Platters [NEW]
+  Score: 0.92, Future Listens: 1
+- Jimmy Durante [NEW]
+  Score: 1.04, Future Listens: 1
+- Louis Prima [NEW]
+  Score: 0.92, Future Listens: 1
+
+POP GENRE:
+Hit Rate: 13.41%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Pop Smoke [NEW]
+  Score: 46.85, Future Listens: 5
+- Jay Rock [NEW]
+  Score: 48.72, Future Listens: 3
+- YG [NEW]
+  Score: 48.64, Future Listens: 3
+- Mac Miller [NEW]
+  Score: 46.85, Future Listens: 3
+- Lil Wayne [NEW]
+  Score: 48.93, Future Listens: 3
+- The Notorious B.I.G. [NEW]
+  Score: 8.96, Future Listens: 3
+- Vince Staples [NEW]
+  Score: 47.18, Future Listens: 3
+- Cage The Elephant [NEW]
+  Score: 0.87, Future Listens: 2
+- A$AP Rocky [NEW]
+  Score: 46.85, Future Listens: 2
+- Glass Animals [NEW]
+  Score: 0.87, Future Listens: 2
+- Arctic Monkeys [NEW]
+  Score: 0.87, Future Listens: 2
+- Stray Kids [NEW]
+  Score: 3.81, Future Listens: 2
+- My Chemical Romance [NEW]
+  Score: 0.87, Future Listens: 2
+- Future [NEW]
+  Score: 49.30, Future Listens: 1
+- 50 Cent [NEW]
+  Score: 9.04, Future Listens: 1
+- Ava Max [NEW]
+  Score: 10.42, Future Listens: 1
+- benny blanco [NEW]
+  Score: 10.42, Future Listens: 1
+- T.I. [NEW]
+  Score: 8.75, Future Listens: 1
+- Jason Derulo [NEW]
+  Score: 2.77, Future Listens: 1
+- Hozier [NEW]
+  Score: 3.60, Future Listens: 1
+- Weezer [NEW]
+  Score: 0.99, Future Listens: 1
+- 2Pac [NEW]
+  Score: 8.38, Future Listens: 1
+- Mike WiLL Made-It [NEW]
+  Score: 45.22, Future Listens: 1
+- Lil Baby [NEW]
+  Score: 43.92, Future Listens: 1
+
+PREDICTION EVALUATION RESULTS
+==================================================
+
+OVERALL PERFORMANCE:
+Total Recommendations: 856
+Hit Rate: 7.59%
+Discovery Rate: 100.0%
+Total Hits: 65
+New Discoveries: 65
+
+EDM GENRE:
+Hit Rate: 3.77%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Mac DeMarco [NEW]
+  Score: 1.46, Future Listens: 3
+- Steve Lacy [NEW]
+  Score: 1.39, Future Listens: 2
+- Labrinth [NEW]
+  Score: 5.95, Future Listens: 1
+- TV Girl [NEW]
+  Score: 1.49, Future Listens: 1
+- DJ Snake [NEW]
+  Score: 6.46, Future Listens: 1
+- Flight Facilities [NEW]
+  Score: 2.30, Future Listens: 1
+- Clairo [NEW]
+  Score: 1.46, Future Listens: 1
+- Beach House [NEW]
+  Score: 1.49, Future Listens: 1
+
+FILMI GENRE:
+Hit Rate: 1.53%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Pritam [NEW]
+  Score: 1.16, Future Listens: 1
+- Mano [NEW]
+  Score: 11.59, Future Listens: 1
+
+HIP-HOP GENRE:
+Hit Rate: 14.88%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Nas [NEW]
+  Score: 15.14, Future Listens: 6
+- Bruno Mars [NEW]
+  Score: 10.62, Future Listens: 5
+- Doja Cat [NEW]
+  Score: 5.72, Future Listens: 5
+- Baby Keem [NEW]
+  Score: 68.93, Future Listens: 4
+- Mac DeMarco [NEW]
+  Score: 26.79, Future Listens: 3
+- Steve Lacy [NEW]
+  Score: 27.41, Future Listens: 2
+- Metro Boomin [NEW]
+  Score: 62.22, Future Listens: 2
+- Juicy J [NEW]
+  Score: 21.17, Future Listens: 1
+- Twista [NEW]
+  Score: 16.95, Future Listens: 1
+- Key Glock [NEW]
+  Score: 4.83, Future Listens: 1
+- DJ Snake [NEW]
+  Score: 10.26, Future Listens: 1
+- Drake [NEW]
+  Score: 63.32, Future Listens: 1
+- The Game [NEW]
+  Score: 15.29, Future Listens: 1
+- Ty Dolla $ign [NEW]
+  Score: 58.29, Future Listens: 1
+- Mustard [NEW]
+  Score: 61.36, Future Listens: 1
+- Dr. Dre [NEW]
+  Score: 14.95, Future Listens: 1
+- Lil Yachty [NEW]
+  Score: 62.28, Future Listens: 1
+- TV Girl [NEW]
+  Score: 27.41, Future Listens: 1
+- Yebba [NEW]
+  Score: 26.37, Future Listens: 1
+- Mobb Deep [NEW]
+  Score: 13.61, Future Listens: 1
+- $NOT [NEW]
+  Score: 52.05, Future Listens: 1
+- Ice Cube [NEW]
+  Score: 14.45, Future Listens: 1
+- Miguel [NEW]
+  Score: 27.80, Future Listens: 1
+- Ace Hood [NEW]
+  Score: 21.62, Future Listens: 1
+- LUCKI [NEW]
+  Score: 50.67, Future Listens: 1
+
+JAZZ GENRE:
+Hit Rate: 11.72%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Nas [NEW]
+  Score: 4.11, Future Listens: 6
+- Billie Holiday [NEW]
+  Score: 5.15, Future Listens: 5
+- Free Nationals [NEW]
+  Score: 6.64, Future Listens: 5
+- Stevie Wonder [NEW]
+  Score: 9.98, Future Listens: 4
+- Kool & The Gang [NEW]
+  Score: 10.37, Future Listens: 3
+- John Coltrane [NEW]
+  Score: 3.60, Future Listens: 2
+- J Dilla [NEW]
+  Score: 4.12, Future Listens: 2
+- Wu-Tang Clan [NEW]
+  Score: 4.43, Future Listens: 2
+- Marvin Gaye [NEW]
+  Score: 9.67, Future Listens: 2
+- Charlie Parker [NEW]
+  Score: 3.74, Future Listens: 1
+- Bobby Womack [NEW]
+  Score: 9.93, Future Listens: 1
+- Oscar Peterson Trio [NEW]
+  Score: 3.60, Future Listens: 1
+- FKJ [NEW]
+  Score: 5.72, Future Listens: 1
+- Focus [NEW]
+  Score: 0.88, Future Listens: 1
+- Etta Jones [NEW]
+  Score: 5.36, Future Listens: 1
+- A Tribe Called Quest [NEW]
+  Score: 3.79, Future Listens: 1
+- Gang Starr [NEW]
+  Score: 4.14, Future Listens: 1
+- 稲垣次郎とソウル・メディア [NEW]
+  Score: 0.69, Future Listens: 1
+- Emerson, Lake & Palmer [NEW]
+  Score: 1.07, Future Listens: 1
+- Paul Desmond [NEW]
+  Score: 3.60, Future Listens: 1
+- Rick James [NEW]
+  Score: 9.90, Future Listens: 1
+- RYUSENKEI [NEW]
+  Score: 1.04, Future Listens: 1
+- BADBADNOTGOOD [NEW]
+  Score: 5.72, Future Listens: 1
+- Dizzy Gillespie [NEW]
+  Score: 3.88, Future Listens: 1
+- Madlib [NEW]
+  Score: 3.99, Future Listens: 1
+- Ol' Dirty Bastard [NEW]
+  Score: 4.46, Future Listens: 1
+- Bill Evans [NEW]
+  Score: 3.89, Future Listens: 1
+- LEISURE [NEW]
+  Score: 5.72, Future Listens: 1
+
+POP GENRE:
+Hit Rate: 10.66%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Bruno Mars [NEW]
+  Score: 18.17, Future Listens: 5
+- Doja Cat [NEW]
+  Score: 7.11, Future Listens: 5
+- Outkast [NEW]
+  Score: 14.97, Future Listens: 4
+- Baby Keem [NEW]
+  Score: 104.86, Future Listens: 4
+- Gorillaz [NEW]
+  Score: 7.50, Future Listens: 3
+- Metro Boomin [NEW]
+  Score: 93.49, Future Listens: 2
+- Liana Flores [NEW]
+  Score: 10.59, Future Listens: 2
+- Key Glock [NEW]
+  Score: 90.57, Future Listens: 1
+- bôa [NEW]
+  Score: 10.59, Future Listens: 1
+- Clairo [NEW]
+  Score: 10.43, Future Listens: 1
+- Drake [NEW]
+  Score: 96.11, Future Listens: 1
+- The Game [NEW]
+  Score: 16.92, Future Listens: 1
+- Ty Dolla $ign [NEW]
+  Score: 91.01, Future Listens: 1
+- Green Day [NEW]
+  Score: 7.64, Future Listens: 1
+- Dr. Dre [NEW]
+  Score: 16.16, Future Listens: 1
+- Mustard [NEW]
+  Score: 94.88, Future Listens: 1
+- Lil Yachty [NEW]
+  Score: 94.60, Future Listens: 1
+- TV Girl [NEW]
+  Score: 10.59, Future Listens: 1
+- Ice Cube [NEW]
+  Score: 15.63, Future Listens: 1
+- Bring Me The Horizon [NEW]
+  Score: 7.07, Future Listens: 1
+- Olivia Rodrigo [NEW]
+  Score: 10.19, Future Listens: 1
+
+PREDICTION EVALUATION RESULTS
+==================================================
+
+OVERALL PERFORMANCE:
+Total Recommendations: 922
+Hit Rate: 6.62%
+Discovery Rate: 100.0%
+Total Hits: 61
+New Discoveries: 61
+
+EDM GENRE:
+Hit Rate: 3.88%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Fred again.. [NEW]
+  Score: 4.33, Future Listens: 9
+- Black Eyed Peas [NEW]
+  Score: 8.29, Future Listens: 2
+- Her's [NEW]
+  Score: 8.00, Future Listens: 1
+- Hailee Steinfeld [NEW]
+  Score: 7.52, Future Listens: 1
+- Faye Webster [NEW]
+  Score: 7.22, Future Listens: 1
+- Cults [NEW]
+  Score: 7.80, Future Listens: 1
+- Dua Lipa [NEW]
+  Score: 7.87, Future Listens: 1
+- will.i.am [NEW]
+  Score: 8.26, Future Listens: 1
+
+FILMI GENRE:
+Hit Rate: 3.05%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Armaan Malik [NEW]
+  Score: 5.78, Future Listens: 1
+- Vijay Prakash [NEW]
+  Score: 15.63, Future Listens: 1
+- Dhanush [NEW]
+  Score: 9.62, Future Listens: 1
+- Asha Bhosle [NEW]
+  Score: 4.18, Future Listens: 1
+
+HIP-HOP GENRE:
+Hit Rate: 11.39%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Yeat [NEW]
+  Score: 67.36, Future Listens: 8
+- SZA [NEW]
+  Score: 44.19, Future Listens: 2
+- Teezo Touchdown [NEW]
+  Score: 38.52, Future Listens: 2
+- Shaboozey [NEW]
+  Score: 12.58, Future Listens: 2
+- Alicia Keys [NEW]
+  Score: 8.07, Future Listens: 2
+- Kenny Beats [NEW]
+  Score: 39.56, Future Listens: 2
+- Destiny's Child [NEW]
+  Score: 8.56, Future Listens: 1
+- Ne-Yo [NEW]
+  Score: 8.98, Future Listens: 1
+- Fergie [NEW]
+  Score: 10.11, Future Listens: 1
+- Fivio Foreign [NEW]
+  Score: 6.69, Future Listens: 1
+- Tyga [NEW]
+  Score: 24.50, Future Listens: 1
+- Tinashe [NEW]
+  Score: 8.44, Future Listens: 1
+- Beyoncé [NEW]
+  Score: 8.49, Future Listens: 1
+- Big Pun [NEW]
+  Score: 20.68, Future Listens: 1
+- Moneybagg Yo [NEW]
+  Score: 7.30, Future Listens: 1
+- USHER [NEW]
+  Score: 8.09, Future Listens: 1
+- Nicki Minaj [NEW]
+  Score: 7.94, Future Listens: 1
+- Southside [NEW]
+  Score: 67.64, Future Listens: 1
+
+JAZZ GENRE:
+Hit Rate: 6.62%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Fred again.. [NEW]
+  Score: 1.10, Future Listens: 9
+- Ryo Fukui [NEW]
+  Score: 2.77, Future Listens: 6
+- Al Green [NEW]
+  Score: 19.32, Future Listens: 3
+- Chaka Khan [NEW]
+  Score: 6.14, Future Listens: 2
+- Benny Sings [NEW]
+  Score: 29.82, Future Listens: 2
+- Sam Cooke [NEW]
+  Score: 19.15, Future Listens: 2
+- The Pharcyde [NEW]
+  Score: 22.32, Future Listens: 2
+- Makoto Matsushita [NEW]
+  Score: 3.12, Future Listens: 2
+- NEIL FRANCES [NEW]
+  Score: 31.82, Future Listens: 2
+- Daryl Hall & John Oates [NEW]
+  Score: 18.16, Future Listens: 1
+- Danger Mouse [NEW]
+  Score: 20.34, Future Listens: 1
+- Romy [NEW]
+  Score: 1.10, Future Listens: 1
+- The Gap Band [NEW]
+  Score: 5.96, Future Listens: 1
+- Pete Rock & C.L. Smooth [NEW]
+  Score: 19.44, Future Listens: 1
+- Otis Redding [NEW]
+  Score: 18.39, Future Listens: 1
+- Bon Iver [NEW]
+  Score: 0.81, Future Listens: 1
+- Aretha Franklin [NEW]
+  Score: 18.48, Future Listens: 1
+- Shigeru Suzuki [NEW]
+  Score: 3.12, Future Listens: 1
+- CASIOPEA [NEW]
+  Score: 2.08, Future Listens: 1
+- The Roots [NEW]
+  Score: 21.41, Future Listens: 1
+- Fruko Y Sus Tesos [NEW]
+  Score: 0.87, Future Listens: 1
+
+POP GENRE:
+Hit Rate: 11.86%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Bleachers [NEW]
+  Score: 27.81, Future Listens: 3
+- Britney Spears [NEW]
+  Score: 10.69, Future Listens: 2
+- Nirvana [NEW]
+  Score: 11.53, Future Listens: 2
+- Black Eyed Peas [NEW]
+  Score: 10.28, Future Listens: 2
+- SZA [NEW]
+  Score: 115.67, Future Listens: 2
+- Whitney Houston [NEW]
+  Score: 10.69, Future Listens: 2
+- Fergie [NEW]
+  Score: 10.69, Future Listens: 1
+- Harry Styles [NEW]
+  Score: 25.02, Future Listens: 1
+- Fivio Foreign [NEW]
+  Score: 118.26, Future Listens: 1
+- Her's [NEW]
+  Score: 27.51, Future Listens: 1
+- Beyoncé [NEW]
+  Score: 9.19, Future Listens: 1
+- Big Pun [NEW]
+  Score: 18.66, Future Listens: 1
+- Fitz and The Tantrums [NEW]
+  Score: 11.30, Future Listens: 1
+- Djo [NEW]
+  Score: 27.19, Future Listens: 1
+- Ne-Yo [NEW]
+  Score: 9.67, Future Listens: 1
+- Tyga [NEW]
+  Score: 23.80, Future Listens: 1
+- Moneybagg Yo [NEW]
+  Score: 118.99, Future Listens: 1
+- will.i.am [NEW]
+  Score: 24.91, Future Listens: 1
+- Lady Gaga [NEW]
+  Score: 27.20, Future Listens: 1
+- Destiny's Child [NEW]
+  Score: 9.26, Future Listens: 1
+- Nelly [NEW]
+  Score: 22.79, Future Listens: 1
+- Neon Trees [NEW]
+  Score: 11.33, Future Listens: 1
+- Spice Girls [NEW]
+  Score: 9.65, Future Listens: 1
+
+PREDICTION EVALUATION RESULTS
+==================================================
+
+OVERALL PERFORMANCE:
+Total Recommendations: 1035
+Hit Rate: 8.21%
+Discovery Rate: 100.0%
+Total Hits: 85
+New Discoveries: 85
+
+EDM GENRE:
+Hit Rate: 7.39%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Pitbull [NEW]
+  Score: 20.02, Future Listens: 5
+- David Guetta [NEW]
+  Score: 7.58, Future Listens: 3
+- Avicii [NEW]
+  Score: 19.86, Future Listens: 2
+- The Chainsmokers [NEW]
+  Score: 19.49, Future Listens: 1
+- DubVision [NEW]
+  Score: 2.15, Future Listens: 1
+- Chris Lorenzo [NEW]
+  Score: 8.49, Future Listens: 1
+- Justin Bieber [NEW]
+  Score: 18.20, Future Listens: 1
+- Mr. Belt & Wezol [NEW]
+  Score: 8.49, Future Listens: 1
+- Emmit Fenn [NEW]
+  Score: 5.38, Future Listens: 1
+- Noizu [NEW]
+  Score: 8.49, Future Listens: 1
+- deadmau5 [NEW]
+  Score: 5.14, Future Listens: 1
+- Galantis [NEW]
+  Score: 19.31, Future Listens: 1
+- Empire Of The Sun [NEW]
+  Score: 5.65, Future Listens: 1
+- Matoma [NEW]
+  Score: 0.81, Future Listens: 1
+- Joel Corry [NEW]
+  Score: 7.15, Future Listens: 1
+
+FILMI GENRE:
+Hit Rate: 16.03%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Arijit Singh [NEW]
+  Score: 3.58, Future Listens: 6
+- Mika Singh [NEW]
+  Score: 3.17, Future Listens: 3
+- Neha Kakkar [NEW]
+  Score: 3.17, Future Listens: 3
+- Amit Trivedi [NEW]
+  Score: 7.98, Future Listens: 3
+- Vishal-Shekhar [NEW]
+  Score: 7.98, Future Listens: 3
+- Mohammed Rafi [NEW]
+  Score: 10.56, Future Listens: 2
+- Lata Mangeshkar [NEW]
+  Score: 9.52, Future Listens: 2
+- Sachin-Jigar [NEW]
+  Score: 3.17, Future Listens: 2
+- Anurag Kulkarni [NEW]
+  Score: 14.92, Future Listens: 2
+- Benny Dayal [NEW]
+  Score: 7.98, Future Listens: 2
+- Mithoon [NEW]
+  Score: 3.58, Future Listens: 1
+- Santhosh Narayanan [NEW]
+  Score: 17.14, Future Listens: 1
+- Ankit Tiwari [NEW]
+  Score: 7.98, Future Listens: 1
+- Srinivas [NEW]
+  Score: 22.91, Future Listens: 1
+- Gurinder Gill [NEW]
+  Score: 2.57, Future Listens: 1
+- Shaan [NEW]
+  Score: 3.17, Future Listens: 1
+- Sunidhi Chauhan [NEW]
+  Score: 3.17, Future Listens: 1
+- Harris Jayaraj [NEW]
+  Score: 19.79, Future Listens: 1
+- Ash King [NEW]
+  Score: 3.17, Future Listens: 1
+- Bappi Lahiri [NEW]
+  Score: 10.30, Future Listens: 1
+- Himesh Reshammiya [NEW]
+  Score: 3.17, Future Listens: 1
+
+HIP-HOP GENRE:
+Hit Rate: 14.19%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Quavo [NEW]
+  Score: 93.79, Future Listens: 5
+- Ken Carson [NEW]
+  Score: 77.90, Future Listens: 3
+- BigXthaPlug [NEW]
+  Score: 8.26, Future Listens: 3
+- Rick Ross [NEW]
+  Score: 30.76, Future Listens: 3
+- Ariana Grande [NEW]
+  Score: 24.59, Future Listens: 2
+- DJ Khaled [NEW]
+  Score: 27.46, Future Listens: 1
+- Mary J. Blige [NEW]
+  Score: 22.93, Future Listens: 1
+- Sheff G [NEW]
+  Score: 7.96, Future Listens: 1
+- Giveon [NEW]
+  Score: 49.17, Future Listens: 1
+- Justin Bieber [NEW]
+  Score: 18.82, Future Listens: 1
+- 42 Dugg [NEW]
+  Score: 9.63, Future Listens: 1
+- Lupe Fiasco [NEW]
+  Score: 27.50, Future Listens: 1
+- Aaron May [NEW]
+  Score: 46.97, Future Listens: 1
+- Snoop Dogg [NEW]
+  Score: 30.19, Future Listens: 1
+- Gunna [NEW]
+  Score: 93.79, Future Listens: 1
+- Mario [NEW]
+  Score: 23.44, Future Listens: 1
+- Lil Tjay [NEW]
+  Score: 19.50, Future Listens: 1
+- Kevin Gates [NEW]
+  Score: 30.94, Future Listens: 1
+- The Chainsmokers [NEW]
+  Score: 18.90, Future Listens: 1
+- N.W.A. [NEW]
+  Score: 28.00, Future Listens: 1
+- B.o.B [NEW]
+  Score: 26.38, Future Listens: 1
+- E-40 [NEW]
+  Score: 0.69, Future Listens: 1
+
+JAZZ GENRE:
+Hit Rate: 3.69%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Jamie xx [NEW]
+  Score: 4.09, Future Listens: 2
+- João Gilberto [NEW]
+  Score: 0.92, Future Listens: 2
+- Madison Cunningham [NEW]
+  Score: 0.69, Future Listens: 2
+- Masayoshi Takanaka [NEW]
+  Score: 9.15, Future Listens: 2
+- Underground Canopy [NEW]
+  Score: 1.10, Future Listens: 1
+- Duskus [NEW]
+  Score: 4.09, Future Listens: 1
+- Norah Jones [NEW]
+  Score: 4.09, Future Listens: 1
+- Novo Amor [NEW]
+  Score: 1.73, Future Listens: 1
+- DJ Seinfeld [NEW]
+  Score: 4.09, Future Listens: 1
+- Joy Oladokun [NEW]
+  Score: 0.69, Future Listens: 1
+- José González [NEW]
+  Score: 1.61, Future Listens: 1
+- Parcels [NEW]
+  Score: 37.46, Future Listens: 1
+- ANOTR [NEW]
+  Score: 4.09, Future Listens: 1
+- Lord Huron [NEW]
+  Score: 1.73, Future Listens: 1
+- Nara Leão [NEW]
+  Score: 0.92, Future Listens: 1
+
+POP GENRE:
+Hit Rate: 11.69%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Noah Kahan [NEW]
+  Score: 0.69, Future Listens: 10
+- Quavo [NEW]
+  Score: 139.96, Future Listens: 5
+- boygenius [NEW]
+  Score: 48.31, Future Listens: 3
+- Maroon 5 [NEW]
+  Score: 38.20, Future Listens: 3
+- Rick Ross [NEW]
+  Score: 28.89, Future Listens: 3
+- Ariana Grande [NEW]
+  Score: 42.55, Future Listens: 2
+- Nelly Furtado [NEW]
+  Score: 27.98, Future Listens: 2
+- DJ Khaled [NEW]
+  Score: 147.19, Future Listens: 1
+- Mary J. Blige [NEW]
+  Score: 25.98, Future Listens: 1
+- José Feliciano [NEW]
+  Score: 3.18, Future Listens: 1
+- James Bay [NEW]
+  Score: 0.69, Future Listens: 1
+- The Killers [NEW]
+  Score: 16.89, Future Listens: 1
+- Brenn! [NEW]
+  Score: 0.69, Future Listens: 1
+- Tate McRae [NEW]
+  Score: 42.55, Future Listens: 1
+- Maggie Rogers [NEW]
+  Score: 0.69, Future Listens: 1
+- 42 Dugg [NEW]
+  Score: 123.58, Future Listens: 1
+- Lupe Fiasco [NEW]
+  Score: 27.02, Future Listens: 1
+- Mariah Carey [NEW]
+  Score: 31.11, Future Listens: 1
+- Snoop Dogg [NEW]
+  Score: 29.65, Future Listens: 1
+- Gunna [NEW]
+  Score: 139.96, Future Listens: 1
+- Mario [NEW]
+  Score: 26.70, Future Listens: 1
+- Lil Tjay [NEW]
+  Score: 129.57, Future Listens: 1
+- Katy Perry [NEW]
+  Score: 38.20, Future Listens: 1
+- The Chainsmokers [NEW]
+  Score: 38.20, Future Listens: 1
+- Christina Perri [NEW]
+  Score: 38.20, Future Listens: 1
+- N.W.A. [NEW]
+  Score: 27.05, Future Listens: 1
+- Christina Aguilera [NEW]
+  Score: 32.63, Future Listens: 1
+
+PREDICTION EVALUATION RESULTS
+==================================================
+
+OVERALL PERFORMANCE:
+Total Recommendations: 1026
+Hit Rate: 4.09%
+Discovery Rate: 100.0%
+Total Hits: 42
+New Discoveries: 42
+
+EDM GENRE:
+Hit Rate: 4.43%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Sean Paul [NEW]
+  Score: 29.99, Future Listens: 1
+- Dillon Francis [NEW]
+  Score: 6.60, Future Listens: 1
+- MK [NEW]
+  Score: 22.09, Future Listens: 1
+- CID [NEW]
+  Score: 21.79, Future Listens: 1
+- Oliver Heldens [NEW]
+  Score: 2.50, Future Listens: 1
+- Strawberry Guy [NEW]
+  Score: 14.78, Future Listens: 1
+- Mike Posner [NEW]
+  Score: 30.89, Future Listens: 1
+- Major Lazer [NEW]
+  Score: 29.64, Future Listens: 1
+- Eyedress [NEW]
+  Score: 16.47, Future Listens: 1
+
+FILMI GENRE:
+Hit Rate: 10.0%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Diljit Dosanjh [NEW]
+  Score: 3.35, Future Listens: 3
+- KK [NEW]
+  Score: 27.61, Future Listens: 3
+- Rekha Bhardwaj [NEW]
+  Score: 27.61, Future Listens: 2
+- Jasleen Royal [NEW]
+  Score: 15.46, Future Listens: 2
+- Yuvan Shankar Raja [NEW]
+  Score: 23.47, Future Listens: 1
+- Jassie Gift [NEW]
+  Score: 33.49, Future Listens: 1
+- Parmish Verma [NEW]
+  Score: 3.81, Future Listens: 1
+- Ram Sampath [NEW]
+  Score: 17.74, Future Listens: 1
+- Kamal Haasan [NEW]
+  Score: 29.16, Future Listens: 1
+- Harish Raghavendra [NEW]
+  Score: 24.07, Future Listens: 1
+- Vishal Dadlani [NEW]
+  Score: 27.61, Future Listens: 1
+- Shilpa Rao [NEW]
+  Score: 17.74, Future Listens: 1
+- Vishal Mishra [NEW]
+  Score: 16.31, Future Listens: 1
+
+HIP-HOP GENRE:
+Hit Rate: 5.59%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- ¥$ [NEW]
+  Score: 93.04, Future Listens: 5
+- Sabrina Carpenter [NEW]
+  Score: 38.67, Future Listens: 2
+- Rich Amiri [NEW]
+  Score: 97.09, Future Listens: 2
+- James Blake [NEW]
+  Score: 55.19, Future Listens: 2
+- Baby Bash [NEW]
+  Score: 32.60, Future Listens: 1
+- Eazy-E [NEW]
+  Score: 35.80, Future Listens: 1
+- Rae Sremmurd [NEW]
+  Score: 30.56, Future Listens: 1
+- Justin Timberlake [NEW]
+  Score: 40.67, Future Listens: 1
+
+JAZZ GENRE:
+Hit Rate: 2.16%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Rauw Alejandro [NEW]
+  Score: 1.61, Future Listens: 1
+- Etta James [NEW]
+  Score: 34.39, Future Listens: 1
+- Ray Charles [NEW]
+  Score: 34.30, Future Listens: 1
+- The Isley Brothers [NEW]
+  Score: 13.75, Future Listens: 1
+- King Crimson [NEW]
+  Score: 2.59, Future Listens: 1
+- Patrick Watson [NEW]
+  Score: 4.83, Future Listens: 1
+- Bobby Darin [NEW]
+  Score: 12.07, Future Listens: 1
+- Bee Gees [NEW]
+  Score: 32.97, Future Listens: 1
+- Adi Oasis [NEW]
+  Score: 49.02, Future Listens: 1
+
+POP GENRE:
+Hit Rate: 3.56%
+Discovery Rate: 100.0%
+
+Successful Recommendations:
+- Sabrina Carpenter [NEW]
+  Score: 66.68, Future Listens: 2
+- Leith Ross [NEW]
+  Score: 72.72, Future Listens: 1
+- Eazy-E [NEW]
+  Score: 37.03, Future Listens: 1
+- The Lumineers [NEW]
+  Score: 5.83, Future Listens: 1
+- Rae Sremmurd [NEW]
+  Score: 32.06, Future Listens: 1
+- Mike Posner [NEW]
+  Score: 65.01, Future Listens: 1
+- Justin Timberlake [NEW]
+  Score: 50.80, Future Listens: 1
+- The Ronettes [NEW]
+  Score: 4.43, Future Listens: 1

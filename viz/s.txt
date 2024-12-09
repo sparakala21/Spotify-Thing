@@ -1,0 +1,13 @@
+[
+    {'artist': 'Kendrick Lamar', 'artist_id': '2YZyLoL8N0Wb9xBt1NhZWg', 'appearances': 80}
+    , {'artist': 'Kanye West', 'artist_id': '5K4W6rqBFWDnAN6FQUkS6x', 'appearances': 78}
+    , {'artist': 'Fred again..', 'artist_id': '4oLeXFyACqeem2VImYeBFe', 'appearances': 63}
+    , {'artist': 'Denzel Curry', 'artist_id': '6fxyWrfmjcbj5d12gXeiNV', 'appearances': 48}
+    , {'artist': 'Lil Wayne', 'artist_id': '55Aa2cqylxrFIXC767Z865', 'appearances': 47}, 
+{'artist': 'Childish Gambino', 'artist_id': '73sIBHcqh3Z3NyqHKZ7FOL', 'appearances': 39},
+{'artist': 'Pritam', 'artist_id': '1wRPtKGflJrBx9BmLsSwlU', 'appearances': 35}, 
+{'artist': 'Drake', 'artist_id': '3TVXtAsR1Inumwj472S9r4', 'appearances': 33}, 
+{'artist': 'Future', 'artist_id': '1RyvyyTE3xzB2ZywiAwp0i', 'appearances': 33}, 
+{'artist': 'KAYTRANADA', 'artist_id': '6qgnBH6iDM91ipVXv28OMu', 'appearances': 33}, 
+{'artist': 'Lil Uzi Vert', 'artist_id': '4O15NlyKLIASxsJ0PrXPfz', 'appearances': 31}, 
+{'artist': 'Kid Cudi', 'artist_id': '0fA0VVWsXO9YnASrzqfmYu', 'appearances': 30}
